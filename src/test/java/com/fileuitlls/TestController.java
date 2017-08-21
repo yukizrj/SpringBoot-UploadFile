@@ -58,7 +58,7 @@ public class TestController {
 	}
 
 	@Test
-	public void testGetEmployee() throws Exception {
+	public void testUpload() throws Exception {
 		// necessary data
 		Date date = new Date();
 		byte[] content = null;
