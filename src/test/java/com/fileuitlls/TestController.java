@@ -33,7 +33,7 @@ import com.fileutills.entity.Files;
 import com.fileutills.service.FileService;
 
 /**
- * @author Rachel intergation test for uploadcontroller
+ * @author Rachel test for uploadcontroller
  *
  */
 @RunWith(SpringJUnit4ClassRunner.class)
